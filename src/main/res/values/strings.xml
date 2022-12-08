@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">RU Pizzeria</string>
+    <string name="ru_pizzeria">RU Pizzeria</string>
+    <string name="pepperoniTitle">Pepperoni Pizza</string>
+    <string name="hawaiianTitle">Hawaiian Pizza</string>
+    <string name="deluxeTitle">Deluxe Pizza</string>
+    <string name="storeOrder">Store Orders</string>
+    <string name="currentOrder">Current Order</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_pizza2">PizzaActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="phone_numbers">Phone Number</string>
+    <string name="order_total">Order Total $</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="cancel_order">Cancel Order</string>
+
+    <string name="choose_size">Choose Size</string>
+    <string name="deluxe_pizza">Deluxe Pizza</string>
+    <string name="price">Price</string>
+    <string name="add_order">Add Pizza to Order</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="toppings">Toppings</string>
+    <string name="current_toppings">Current Toppings</string>
+    <string name="choose_toppings">Choose Toppings</string>
+    <string name="meat_toppings">Choose Meat Toppings</string>
+    <string name="nonmeat_toppings">Choose Non-Meat Toppings</string>
+
+    <!-- Toppings for pizza (maybe better way to do this) -->
+    <string name="ham">Ham</string>
+    <string name="cheese">Extra Cheese</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="blackolives">Black olives</string>
+    <string name="greenpepper">Green Peppers</string>
+    <string name="chicken">Chicken</string>
+    <string name="beef">Beef</string>
+    <string name="sausage">Sausage</string>
+    <string name="onion">Onion</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="remove_pizza">Remove Pizza</string>
+    <string name="place_order">Place Order</string>
+
+    <string name="current_order">Current Order</string>
+    <string name="number">Customer Phone Number</string>
+    <string name="subtotal">Sub-Total $</string>
+    <string name="salestax">Sales Tax $</string>
+    <string name="zeroAmount">0.00</string>
+
+
+
+    <string-array name="number">
+        <item>One</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+
+    <string-array name="Sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+
+
+</resources>
